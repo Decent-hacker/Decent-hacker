@@ -1,93 +1,183 @@
-<!-- Cybersecurity-themed GitHub Profile README | @Decent-hacker -->
+<!-- CUSTOM CYBER COMMAND CENTER / github.com/Decent-hacker -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06101B,50:103139,100:008B64&amp;height=200&amp;section=header&amp;text=SUSHANK%20KUMAR&amp;fontColor=E9FFF5&amp;fontSize=48&amp;fontAlignY=37&amp;desc=CYBERSECURITY%20%7C%20THREAT%20DETECTION%20%7C%20CLOUD%20SECURITY&amp;descAlignY=60&amp;descSize=15" alt="Sushank Kumar | Cybersecurity, Threat Detection and Cloud Security" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=2800&amp;pause=1100&amp;color=14F195&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=50&amp;lines=Aspiring+SOC+Analyst+%7C+Security+Research+Learner;Exploring+Threat+Detection+%26+Cloud+Security;Build.+Observe.+Detect.+Defend." alt="Animated cybersecurity introduction" />
+<img src="./assets/cyber-command-center.svg" width="100%" alt="Sushank Kumar | Custom cybersecurity command center banner" />
 
-  <p>
-    <a href="https://github.com/Decent-hacker"><img src="https://komarev.com/ghpvc/?username=Decent-hacker&amp;label=PROFILE+VIEWS&amp;color=00a878&amp;style=flat-square" alt="Profile views" /></a>
-    <img src="https://img.shields.io/badge/Focus-Cybersecurity-00A878?style=flat-square&amp;labelColor=0C1520" alt="Cybersecurity focus" />
-    <img src="https://img.shields.io/badge/Location-India-1F6FEB?style=flat-square&amp;labelColor=0C1520" alt="India" />
-    <img src="https://img.shields.io/badge/Open%20Source-Learning%20%26%20Building-227C69?style=flat-square&amp;labelColor=0C1520" alt="Learning and building in open source" />
-  </p>
+<br />
+
+<a href="https://github.com/Decent-hacker?tab=followers"><img src="https://img.shields.io/github/followers/Decent-hacker?label=OPERATORS%20FOLLOWING&style=for-the-badge&labelColor=0A1924&color=10B981" alt="GitHub followers" /></a>
+<a href="https://github.com/Decent-hacker?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-38BDF8?style=for-the-badge&labelColor=0A1924" alt="Browse repositories" /></a>
+<img src="https://komarev.com/ghpvc/?username=Decent-hacker&label=PROFILE%20VISITS&color=10B981&style=for-the-badge" alt="Profile visits" />
+
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=30E6BF&center=true&vCenter=true&repeat=true&width=760&height=42&lines=%3E+Initializing+defensive+security+workspace...;%3E+Exploring+threats.+Engineering+defenses.;%3E+From+packet+captures+to+security+insights." alt="Animated terminal typing intro" />
+
 </div>
 
----
-
-### 🛡️ `whoami`
-
-```text
-$ whoami
-Sushank Kumar | IT undergraduate @ RGIPT
-Focus: SOC / Threat Detection / Incident Response / Cloud Security
-Approach: Build responsibly. Research ethically. Share what you learn.
+```console
+decent-hacker@security-lab:~$ whoami
+Sushank Kumar  |  Information Technology @ RGIPT
+Path            →  SOC / Threat Detection / Cloud Security
+Mindset         →  Build · Break down · Investigate · Defend
+Status          →  Learning in public, one lab at a time
 ```
 
-- 🔐 Exploring **defensive security, security monitoring, incident response and threat intelligence**.
-- 🧪 Interested in reproducible security labs, log analysis, and practical detection engineering.
-- 🔭 Planning and building **SentinelTrap**, a cloud SSH honeypot and threat-intelligence platform *(work in progress; not a published repository)*.
-- 🤝 Happy to collaborate on beginner-friendly defensive security and open-source projects.
+<table>
+<tr>
+<td width="52%" valign="top">
 
-### ⚙️ Security Arsenal
+### `01 / ABOUT THE OPERATOR`
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-111827?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&amp;logo=python&amp;logoColor=58C8A0" alt="Python" />
-  <img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge&amp;logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-111827?style=for-the-badge&amp;logo=burpsuite&amp;logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Elastic%20Stack-111827?style=for-the-badge&amp;logo=elasticstack&amp;logoColor=white" alt="Elastic Stack" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
-</div>
+I’m an IT undergraduate focused on **blue-team cybersecurity**: investigating events, understanding adversary behavior, and turning raw logs into useful security signals.
 
-### 🎯 Security Interests
+- 🛡️ **Areas of interest:** SOC, incident response, cloud security, threat intelligence
+- 🧠 **Learning by doing:** Linux, networking, Python and detection workflows
+- 🧪 **Current direction:** security labs, honeypot telemetry and log analysis
+- 🔐 **Rule of engagement:** ethical research in authorized environments
 
-`SOC & SIEM` · `Network Analysis` · `Detection Engineering` · `Threat Intelligence` · `Cloud Security` · `Incident Response`
+</td>
+<td width="48%" valign="top">
 
-### 🔬 Projects and Labs
+### `02 / MISSION BOARD`
 
-**SentinelTrap** — *Cloud SSH Honeypot & Threat Intelligence Platform*  
-In progress: exploring honeypot telemetry, event enrichment, MITRE ATT&CK mapping, risk scoring, and detection dashboards. A public repository and documented lab results will be linked here when available.
+| TRACK | FOCUS |
+| :-- | :-- |
+| `DETECT` | Analyze security logs |
+| `INVESTIGATE` | Trace suspicious activity |
+| `AUTOMATE` | Build Python tooling |
+| `HARDEN` | Improve defensive posture |
+| `DOCUMENT` | Publish reproducible labs |
 
-**Other engineering work**
-- [ReelForge AI](https://github.com/Decent-hacker/ReelForge-AI) — AI-assisted video editing application project.
-- [Bloom](https://github.com/Decent-hacker/Bloom) — software project repository.
-- [My public repositories](https://github.com/Decent-hacker?tab=repositories) — code, experiments, and learning projects.
+**Now building:** practical skills and documented projects, not vanity metrics.
 
-### 📊 GitHub Stats & Activity
+</td>
+</tr>
+</table>
+
+### `03 / SECURITY TOOLKIT`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Decent-hacker&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;title_color=14F195&amp;icon_color=14F195" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Decent-hacker&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;title_color=14F195" alt="Languages across public repositories" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=Decent-hacker&amp;theme=dark&amp;hide_border=true&amp;ring=14F195&amp;fire=14F195&amp;currStreakLabel=14F195" alt="Contribution streak" />
-  <br />
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Decent-hacker&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;color=14F195&amp;line=14F195&amp;point=E9FFF5" alt="GitHub activity graph" />
+
+**Operating Systems & Scripting**
+
+<img src="https://skillicons.dev/icons?i=linux,kali,windows,bash,python,powershell&theme=dark" alt="Linux, Kali, Windows, Bash, Python and PowerShell" />
+
+**Network, Security & Monitoring**
+
+<img src="https://img.shields.io/badge/Wireshark-142736?style=for-the-badge&logo=wireshark&logoColor=7ADFFF" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Nmap-142736?style=for-the-badge&logoColor=7ADFFF" alt="Nmap" />
+<img src="https://img.shields.io/badge/Burp%20Suite-142736?style=for-the-badge&logo=burpsuite&logoColor=FF8A54" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/Elastic%20Stack-142736?style=for-the-badge&logo=elasticstack&logoColor=5EEAD4" alt="Elastic Stack" />
+
+**Development & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,typescript,react,nodejs,postgres&theme=dark" alt="Git, GitHub, Docker, VS Code, TypeScript, React, Node.js and PostgreSQL" />
+
+<sub>Toolkit reflects technologies explored or used in projects, not claimed mastery or certifications.</sub>
+
 </div>
 
-### 🏆 Profile Trophies
+### `04 / FEATURED SECURITY INITIATIVE`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Decent-hacker&amp;theme=matrix&amp;no-frame=true&amp;row=1&amp;column=6" alt="GitHub statistics trophy cards" />
+<img src="./assets/sentineltrap-pipeline.svg" width="100%" alt="SentinelTrap planned defensive-security telemetry architecture" />
 </div>
 
-### 🐍 Contribution Snake
+**SentinelTrap** `PLANNED / IN PROGRESS` — A cloud SSH honeypot and threat-intelligence project concept that explores the lifecycle from suspicious SSH attempts to structured logs, contextual enrichment, and security dashboards.
 
-<!-- This SVG will appear after the snake workflow first publishes to the output branch. -->
+> This diagram is the **intended design**, not a claim of deployed infrastructure, real incidents or finished detection coverage. A public code repository and measured results will be linked when ready.
+
+### `05 / ENGINEERING PROJECTS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[⚡ ReelForge AI](https://github.com/Decent-hacker/ReelForge-AI)**
+
+Local AI-assisted video editing software under development. Includes documented tests and implementation status, with end-to-end media acceptance still incomplete.
+
+`TypeScript` `Python` `SQLite`
+
+</td>
+<td width="50%" valign="top">
+
+**[🧬 Bloom](https://github.com/Decent-hacker/Bloom)**
+
+Classical computer-vision skin-image analysis, built around image processing rather than a trained diagnostic model.
+
+`Python` `OpenCV` `DIP`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[📈 Grid Load Forecast](https://github.com/Decent-hacker/Grid-load-forecast)**
+
+Time-series engineering and next-hour power demand forecasting using real historical grid data.
+
+`Python` `SQL` `ML`
+
+</td>
+<td valign="top">
+
+**[🌐 Portfolio](https://github.com/Decent-hacker/portfolio)**
+
+Personal security and engineering portfolio built with a clean, responsive web interface.
+
+`Next.js` `React` `TypeScript`
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Decent-hacker/Decent-hacker/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Decent-hacker/Decent-hacker/output/github-snake.svg" />
-    <img alt="Animated contribution graph snake" src="https://raw.githubusercontent.com/Decent-hacker/Decent-hacker/output/github-snake.svg" />
-  </picture>
+<a href="https://github.com/Decent-hacker?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_PUBLIC_PROJECTS-10232C?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="Explore all public projects" /></a>
 </div>
+
+### `06 / LIVE DEVELOPMENT SIGNALS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Decent-hacker&show_icons=true&hide_border=true&theme=transparent&title_color=36E6BD&text_color=B9D9DF&icon_color=38BDF8&ring_color=36E6BD" height="170" alt="Live GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Decent-hacker&layout=compact&hide_border=true&theme=transparent&title_color=36E6BD&text_color=B9D9DF" height="170" alt="Top repository languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Decent-hacker&bg_color=0D1724&color=54DDBF&line=38BDF8&point=5EEAD4&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+
+</div>
+
+<details>
+<summary><b>▶ OPEN ADDITIONAL TELEMETRY · streaks, trophies & contributions</b></summary>
+<br />
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Decent-hacker&theme=github-dark-blue&hide_border=true&ring=42EBC1&fire=38BDF8&currStreakLabel=42EBC1" alt="GitHub contribution streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Decent-hacker&theme=matrix&no-frame=true&no-bg=true&row=1" width="95%" alt="Third-party GitHub trophy visualization" />
+
+**Contribution Snake**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Decent-hacker/Decent-hacker/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Decent-hacker/Decent-hacker/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Decent-hacker/Decent-hacker/output/github-snake.svg" alt="Contribution snake animation (available after Actions workflow runs)" />
+</picture>
+
+</div>
+</details>
 
 ---
 
 <div align="center">
-  <a href="https://github.com/Decent-hacker">GitHub</a> · <a href="https://github.com/Decent-hacker?tab=repositories">Repositories</a>
-  <br /><sub>Build responsibly · Research ethically · Share what you learn</sub>
+
+`ROOT ACCESS TO CURIOSITY. READ-ONLY ACCESS TO EVERYONE ELSE'S SYSTEMS.`
+
+<sub>Cybersecurity exploration · ethical labs · documented engineering</sub>
+
+<br /><br />
+
+<a href="https://github.com/Decent-hacker"><img src="https://img.shields.io/badge/↳_RETURN_TO_PROFILE-0C2530?style=for-the-badge&logo=github&logoColor=56E4BF" alt="Return to GitHub profile" /></a>
+
 </div>
