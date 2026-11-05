@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+<title id="title">Sushank Kumar — Security Lab Terminal</title>
+<desc id="desc">Minimal Linux terminal inspired GitHub profile banner featuring Sushank Kumar and cybersecurity focus areas.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1117"/><stop offset="1" stop-color="#101a20"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5de4b1"/><stop offset="1" stop-color="#48acd6"/></linearGradient>
+</defs>
+<rect width="1200" height="310" rx="12" fill="url(#bg)"/>
+<rect x=".75" y=".75" width="1198.5" height="308.5" rx="11" fill="none" stroke="#283b44" stroke-width="1.5"/>
+<!-- terminal title bar -->
+<path d="M12 1H1188Q1199 1 1199 12V43H1V12Q1 1 12 1Z" fill="#172128"/>
+<path d="M1 43H1199" stroke="#31424b"/>
+<circle cx="28" cy="22" r="6" fill="#ef7675"/><circle cx="49" cy="22" r="6" fill="#e8bd64"/><circle cx="70" cy="22" r="6" fill="#66c99a"/>
+<text x="600" y="27" text-anchor="middle" fill="#9bb0b8" font-size="15" font-family="Consolas,Menlo,DejaVu Sans Mono,monospace">sushank@localhost: ~/security-lab</text>
+<!-- Terminal lines -->
+<text x="43" y="91" fill="#57db9f" font-size="22" font-family="Consolas,Menlo,DejaVu Sans Mono,monospace">❯</text>
+<text x="74" y="91" fill="#a4b8c0" font-size="22" font-family="Consolas,Menlo,DejaVu Sans Mono,monospace">whoami</text>
+<text x="42" y="166" fill="#f1f5f8" font-size="66" font-weight="700" font-family="DejaVu Sans,Arial,sans-serif" letter-spacing="1.4">SUSHANK KUMAR</text>
+<text x="45" y="207" fill="#61dac0" font-size="21" font-family="Consolas,Menlo,DejaVu Sans Mono,monospace">cybersecurity / threat detection / cloud security</text>
+<text x="43" y="259" fill="#57db9f" font-size="21" font-family="Consolas,Menlo,DejaVu Sans Mono,monospace">❯</text>
+<text x="74" y="259" fill="#a4b8c0" font-size="21" font-family="Consolas,Menlo,DejaVu Sans Mono,monospace">echo "learn. build. defend."</text>
+<rect x="44" y="277" width="12" height="19" rx="1" fill="url(#glow)" opacity=".9"/>
+<!-- quiet editorial right-hand motif -->
+<g opacity=".8" transform="translate(962 100)">
+  <path d="M73 -4L138 18V79Q132 123 73 158Q14 123 8 79V18Z" fill="none" stroke="#27584e" stroke-width="3"/>
+  <path d="M73 19L116 34V77Q111 107 73 133Q35 107 30 77V34Z" fill="none" stroke="#53bd9c" stroke-width="2"/>
+  <path d="M54 76L68 90L97 57" fill="none" stroke="#7ee6bd" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M73 -24V-9M73 164V178M-14 75H5M141 75H160" stroke="#2d685b" stroke-width="2" opacity=".7"/>
+</g>
+</svg>
